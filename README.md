@@ -42,6 +42,8 @@ Graphic designers are hired for their creativity and their work quality. The fir
 
 ### Week 5 — Full work period
 
+- [Full work period](week-5/full-work-period.md)
+
 ### Week 6 — Search engine optimization
 
 - [Slides: SEO & metadata](week-6/slides-seo.md)
